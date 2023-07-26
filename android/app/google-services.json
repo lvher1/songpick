@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987365980516",
+    "project_id": "mykaraoke-a6d45",
+    "storage_bucket": "mykaraoke-a6d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987365980516:android:743f82269df497e0aca271",
+        "android_client_info": {
+          "package_name": "com.joyfulsoft.songlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987365980516-8liapnltp9216eqpncr6kito9hkal01n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joyfulsoft.songlist",
+            "certificate_hash": "cd4c9e6e7d8ffd0a3275676f40a971527314c244"
+          }
+        },
+        {
+          "client_id": "987365980516-948u771urju62u674gum100vdm30vi3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuH3JPuBLUFnu2I7lIqJpP0vqzUMS1Z0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987365980516-948u771urju62u674gum100vdm30vi3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
